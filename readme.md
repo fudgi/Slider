@@ -1,5 +1,5 @@
 
-&nbsp; Ссылка на проект на GitPages [ссылке](https://fudgi.github.io/index.html)
+Ссылка на проект на GitPages [ссылке](https://fudgi.github.io/index.html)
 
 Использованные в проекте технологии:
 
