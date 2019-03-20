@@ -1,6 +1,5 @@
 import React from 'react'
 import ExpendingPoint from '../expanding_point/expanding_point'
-import DownPointer from '../down_pointer/down_pointer'
 import './slide_1.css'
 
 class Slide_1 extends React.Component{
